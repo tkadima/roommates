@@ -1,0 +1,57 @@
+nav.navbar.navbar-fixed-top {
+    background: #4C4C9D;
+    margin-bottom: 50px;
+}
+
+nav.navbar.navbar-fixed-top > a {
+    color: #FFFFFF;
+    font-weight: 100;
+}
+
+ul.nav.navbar-nav > li >a {
+    color: #FFFFFF;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.table-footer {
+    margin-bottom: 10px;
+    text-align: right;
+
+}
+
+.table-static {
+    width: 40%;
+}
+.profile {
+    margin-top: 75px;
+}
+
+
+button {
+    color: #FFFFFF;
+}
+button.btn-info{
+    background: #96BEDF;
+}
+
+button.btn-primary {
+    background: #3F88C5;
+}
+
+button.btn-success {
+    background: #68A39B;
+}
+button.btn-warning {
+    background: #FFBA08;
+}
+
+button.btn-danger {
+    background: #D00000;
+}
+
+.body-content {
+    margin-top: 100px;
+}
