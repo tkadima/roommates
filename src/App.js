@@ -5,17 +5,7 @@ import {HomePage } from './components/pages/HomePage';
 import { ChoresPage } from './components/pages/ChoresPage';
 
 export class App extends React.Component {
-    getInitialState() {
-        return {choresList: this.props.chores};
-    }
 
-    handleNewRowSubmit(newChore) {
-        this.setState({choresList: this.state.choresList.concat([newChore])});
-    }
-
-    handleChoreRemove(chore) {
-        
-    }
     render() {
         return (
             <div>
