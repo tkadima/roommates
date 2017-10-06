@@ -1,3 +1,20 @@
+#root {
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+.chore-form {
+
+}
+
+.chore-list {
+    border-left: #d3d3d3 solid;
+    padding: 10px;
+    margin-top: 20px;
+}
 nav.navbar.navbar-fixed-top {
     background: #4C4C9D;
     margin-bottom: 50px;
@@ -29,7 +46,6 @@ body {
     margin-top: 75px;
 }
 
-
 button {
     color: #FFFFFF;
 }
@@ -54,4 +70,8 @@ button.btn-danger {
 
 .body-content {
     margin-top: 100px;
+}
+
+label {
+    padding-top: 10px;
 }
