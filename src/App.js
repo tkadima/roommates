@@ -1,8 +1,8 @@
 import React from 'react';
 import './style.css';
 import { Link, Route } from 'react-router-dom';
-import {HomePage } from './components/pages/HomePage';
-import { ChoresPage } from './components/pages/ChoresPage';
+import { HomePage } from './components/HomePage';
+import { ChoresPage } from './components/chores/ChoresPage';
 
 export class App extends React.Component {
 
